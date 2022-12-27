@@ -24,8 +24,8 @@
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a></div>
 
-
-
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a></div>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a></div>
 
 <!--
 **Goddemi/Goddemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
