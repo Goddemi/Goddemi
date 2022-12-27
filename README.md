@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/React-query-#FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-query-#FF4154?style=flat-square&logo=React-Query&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/tailwindCSS-#06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/tailwindCSS-#06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a></div>
